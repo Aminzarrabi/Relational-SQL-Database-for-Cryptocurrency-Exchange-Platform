@@ -1,1 +1,1 @@
-# Relational-SQL-Database-for-Cryptocurrency-Exchange-Platform
+A relational SQL database for a cryptocurrency exchange, featuring 7 normalized tables: client, crypto, deposit & withdraw, wallet, buy crypto, sell crypto, and transfer. Tables are linked via foreign keys and JOINs to support realistic trading and transaction workflows.
